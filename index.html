@@ -1,34 +1,98 @@
 <!doctype html>
 <html lang="da">
-    <!-- LAVET AF ANDREAS RISAGER - DATO: 22-06-2020 -->
+    <!-- LAVET AF ANDREAS RISAGER - DATO: 28-09-2020 -->
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> <!-- JQUERY -->
     <link href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" rel="stylesheet">  <!-- FONTAWESOME -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> <!-- GOOGLE FONTS -->
-    <link rel="stylesheet" href="style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css" type="text/css" media="screen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-	<title>SITE-NAME</title>
+	<title>ListenRap</title>
 </head>
 <body>
 	<div id="wrapper">
         <header>
+            <img src="./assets/images/logo.png" alt="ListenRap">
+            <div class="navigation"></div>
             <nav>
-                <i class="fas fa-bars" id="burger"></i>
-                <ul>
-                    <li><a href="#">item 1</a></li>
-                    <li><a href="#">item 2</a></li>
-                    <li><a href="#">item 3</a></li>
-                    <li><a href="#">item 4</a></li>
-                </ul>
+                <a href="index.html">
+                    <i class="fas fa-home"></i>
+                    Home
+                </a>
+                <a href="search.html">
+                    <i class="fas fa-search"></i>
+                    Search
+                </a>
+                <a href="playlist.html">
+                    <i class="fas fa-music"></i>
+                    My Playlist
+                </a>
             </nav>
-            <h1>HElLo WoRlD</h1>
         </header>
         <main>
+            <section id="featured">
+                <h1>Featured Songs</h1>
+                <div class="featuredCards">
+                    <div class="featuredCard">
+                        <img src="https://via.placeholder.com/500" alt="">
+                        <h2>Song</h2>
+                        <h3>Artist</h3>
+                    </div>
+                    <div class="featuredCard">
+                        <img src="https://via.placeholder.com/500" alt="">
+                        <h2>Song</h2>
+                        <h3>Artist</h3>
+                    </div>
+                </div>
+            </section>
+            <section id="artists">
+                <h1>Suggested Artists</h1>
+                <div class="artistCards glider">
+                    
+                </div>
+                <template>
+                    <div class="artistCard">
+                        <img src="https://via.placeholder.com/500" alt="">
+                        <h2>name</h2>
+                    </div>
+                </template>
+            </section>
+            <section id="leaderboard">
+                <h1>Top Songs</h1>
+                <div class="topSongs glider2">
+                    <div class="topSong">
+                        <div class="topSongImg">
+                            <img src="./assets/images/album.jpg" alt="">
+                            <span>#1</span>
+                        </div>
+                        <h2>Song</h2>
+                        <h3>Name</h3>
+                    </div>
+                    <div class="topSong">
+                        <div class="topSongImg">
+                            <img src="./assets/images/album.jpg" alt="">
+                            <span>#2</span>
+                        </div>
+                        <h2>Song</h2>
+                        <h3>Name</h3>
+                    </div>
+                    <div class="topSong">
+                        <div class="topSongImg">
+                            <img src="./assets/images/album.jpg" alt="">
+                            <span>#3</span>
+                        </div>
+                        <h2>Song</h2>
+                        <h3>Name</h3>
+                    </div>
+                </div>
+            </section>
             
         </main> 
 
     </div> <!-- END WRAPPER -->
-    <script src="script.js"></script>
+    <script src="./assets/js/script.js"></script>
+    <script src="./assets/js/glider.min.js" defer></script>
 </body>
 </html>

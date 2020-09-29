@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="da">
+    <!-- LAVET AF ANDREAS RISAGER - DATO: 28-09-2020 -->
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> <!-- JQUERY -->
+    <link href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" rel="stylesheet">  <!-- FONTAWESOME -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> <!-- GOOGLE FONTS -->
+    <link rel="stylesheet" href="./assets/css/style.css" type="text/css" media="screen">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+	<title>ListenRap</title>
+</head>
+<body>
+	<div id="wrapper">
+        <header>
+            <img src="./assets/images/logo.png" alt="ListenRap">
+            <div class="navigation"></div>
+            <nav>
+                <a href="index.html">
+                    <i class="fas fa-home"></i>
+                    Home
+                </a>
+                <a href="search.html">
+                    <i class="fas fa-search"></i>
+                    Search
+                </a>
+                <a href="playlist.html">
+                    <i class="fas fa-music"></i>
+                    My Playlist
+                </a>
+            </nav>
+        </header>
+        <main id="mainSearch">
+            <form action="?search=" class="searchForm">
+                <input type="search" name="search" id="search">
+                <button type="submit" class="fas fa-search"></button>
+            </form>
+            
+        </main>
+    </div> <!-- END WRAPPER -->
+    <script src="assets/script.js"></script>
+</body>
+</html>
