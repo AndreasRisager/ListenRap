@@ -60,7 +60,11 @@ nav a{
 	flex-direction: column;
 	text-align: center;
 	color: #FFF;
-	padding: 0.3em 0;
+	padding: 0.5em 0;
+	font-size: 0.8em;
+}
+nav a i{
+	font-size: 1.5em !important;
 }
 nav a:hover{
 	background-color: rgb(75, 75, 75);
@@ -73,11 +77,11 @@ main{
 }
 #featured{
 	padding: 2em 0;
+	text-align: center;
 }
-.featuredCards{
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-	grid-gap: 2%;
+.featuredCard{
+	width: 80%;
+	margin: 0 auto;
 }
 #artists{
 	padding: 2em 0;
@@ -95,23 +99,23 @@ main{
 	color: #c4c3c3;
 	font-weight: 100;
 }
-.glider-track{
+/* .glider-track{
 	width: 800px !important;
-}
+} */
 
 /* LEADERBOARD SECTION */
 #leaderboard{
 	padding: 2em 0;
 }
-.topSongImg{
+.topAlbumImg{
 	display: grid;
 }
-.topSongImg img,.topSongImg span{
+.topAlbumImg img,.topAlbumImg span{
 	grid-area: 1/1/1/1;
 	justify-self: center;
 	align-self: center;
 }
-.topSongImg span{
+.topAlbumImg span{
 	font-size: 10vw;
 	opacity: 1;
 	color: #000;
@@ -120,9 +124,9 @@ main{
 }
 
 
-
-
-
+.artistCards{
+	padding: 1em 0;
+}
 
 
 
