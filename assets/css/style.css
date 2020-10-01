@@ -26,6 +26,7 @@ html{
 	position: relative;
 	overflow: hidden;
 	padding-bottom: 3em;
+	min-height: 100vh;
 }
 a{
 	color: unset;
@@ -129,11 +130,22 @@ main{
 	padding: 1em 0;
 }
 
+audio{
+	width: 100%;
+}
 
 
 
 
-
+.popup{
+	position: absolute;
+	max-width: 500px;
+	background-color: #f1f1f1;
+	z-index: 3;
+	display: none;
+	text-align: center;
+	min-height: 90vh;
+}
 
 
 

@@ -3,6 +3,16 @@
         {
             "name": "Juice WRLD",
             "img": "./assets/images/juice_wrld.jpg",
+            "singles":[
+                {
+                    "track": "ss",
+                    "artists": "Juice WRLD"
+                },
+                {
+                    "track": "aaa",
+                    "artists": "Juice WRLD"
+                }
+            ],
             "albums":[
                 {
                     "album": "Legends Never Die",
