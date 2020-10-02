@@ -68,14 +68,15 @@ async function showArtist(id) {
     let popupSingles = document.querySelector("#singlesUl");
 
     let albumList = artists[index].albums;
-    albumList.forEach(function(albums){
-        popupAlbums.innerHTML = `<li>${albums.album}</li>`;
-    })
+    for(let i = 0; i<albumList.length; i++){
+        let li = document.createElement("li");
+        li.innerHTML = `<li>${albumList[i].album}</li>`
+        popupAlbums.appendChild(li)
+    }
     let singleList = artists[index].singles;
     for(let i = 0; i<singleList.length; i++){
         let li = document.createElement("li");
         li.innerHTML = `<li>${singleList[i].track}</li>`
-        
         popupSingles.appendChild(li)
     }
 

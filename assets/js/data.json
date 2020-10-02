@@ -339,6 +339,60 @@
                             "artists": "Eminem"
                         }
                     ]
+                },
+                {
+                    "album": "Kamikaze",
+                    "cover": "./assets/images/kamikaze.jpg",
+                    "songs":[
+                        {
+                            "track": "The Ringer",
+                            "artists": "Eminem"
+                        },
+                        {
+                            "track": "Greatest",
+                            "artists": "Eminem"
+                        },
+                        {
+                            "track": "Lucky You",
+                            "artists": "Eminem, Joyner Lucas"
+                        },
+                        {
+                            "track": "Normal",
+                            "artists": "Eminem"
+                        },
+                        {
+                            "track": "Em Calls Paul",
+                            "artists": "Eminem"
+                        },
+                        {
+                            "track": "Stepping Stone",
+                            "artists": "Eminem"
+                        },
+                        {
+                            "track": "Not Alike",
+                            "artists": "Eminem, Royce Da 5'9¨"
+                        },
+                        {
+                            "track": "Kamikaze",
+                            "artists": "Eminem"
+                        },
+                        {
+                            "track": "Fall",
+                            "artists": "Eminem"
+                        },
+                        {
+                            "track": "Nice Guy",
+                            "artists": "Eminem, Jessie Reyez"
+                        },
+                        {
+                            "track": "Good Guy",
+                            "artists": "Eminem, Jessie Reyez"
+                        },
+                        {
+                            "track": "Venom",
+                            "artists": "Eminem"
+                        }
+                    ]
                 }
             ]
         },
