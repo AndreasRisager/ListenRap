@@ -10,7 +10,6 @@ async function searchSongs(term){
     const resp = await fetch(`${apiUrl}/suggest/${term}`);
     const data = await resp.json();
     console.log(`Search suggestions for ${term}`);
-    console.log(data);
     showData(data)
 }
 
@@ -83,6 +82,11 @@ async function getLyrics(artist, songTitle, preview){
         <audio controls>
             <source src="${preview}" type="audio/mp3">
         </audio>
+        <h2><strong>${artist}</strong> - ${songTitle}</h2>
+        <span>${lyrics}</span>`;
+    }
+    if(preview == ""){
+        result.innerHTML = `
         <h2><strong>${artist}</strong> - ${songTitle}</h2>
         <span>${lyrics}</span>`;
     }

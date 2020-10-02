@@ -17,15 +17,12 @@ function showArtists(){
         artists.forEach(function(artist){
             const artistCards = document.createElement('div');
             artistCards.classList.add('artistCard');
-            artistCards.setAttribute('data-artist', artist.name);
-            artistCards.setAttribute('data-artistImg', artist.img);
-            let albums = artist.albums;
-            for(let i=0; i<albums.length; i++){
-                artistCards.setAttribute('data-albums', albums[i].album)
-            }
+
             artistCards.innerHTML = `
+            <a href="./index.html?id=${artist.id}">
             <img src="${artist.img}" alt="">
             <h2>${artist.name}</h2>
+            </a>
         `
             container.appendChild(artistCards);
         })
@@ -40,34 +37,56 @@ showArtists();
 
 
 // When clicking on artist
-let artistEl = document.querySelector(".artistCards")
-artistEl.addEventListener("click", (e) => {
-    if(e.target.tagName === "DIV"){
-        const artist = e.target.getAttribute('data-artist');
-        const artistImg = e.target.getAttribute('data-artistImg');
-        const artistAlbums = e.target.getAttribute('data-albums');
-        const artistSingles = e.target.getAttribute('data-singles');
-        getArtist(artist, artistImg, artistAlbums, artistSingles);
-    }
-});
-function getArtist(artist, artistImg, artistAlbums, artistSingles){
+// let artistEl = document.querySelector(".artistCards")
+// artistEl.addEventListener("click", (e) => {
+//     if(e.target.tagName === "DIV"){
+//         const artist = e.target.getAttribute('data-artist');
+
+//         getArtist(artist);
+//     }
+// });
+
+let url = new URLSearchParams(window.location.search);
+
+if(url.get("id")){
+    showArtist();
+}
+async function showArtist(id) {
+    const resp = await fetch(`./assets/js/data.json`);
+    const data = await resp.json();
+    let artists = data.artists;
+    //console.log(data);
+    id = url.get("id")
+    let index = artists.findIndex(function (artist) {
+        return artist.id == id;
+    })
     let main = document.querySelectorAll("main");
     let popup = document.querySelector(".popup");
     let popupName = document.querySelector(".popup h1");
     let popupImg = document.querySelector(".popup img");
-    let popupAlbums = document.querySelector("#albumsUl")
-    let popupSingles = document.querySelector("#singlesUl")
+    let popupAlbums = document.querySelector("#albumsUl");
+    let popupSingles = document.querySelector("#singlesUl");
 
-    popupName.innerHTML = artist;
-    popupImg.src = artistImg;
-    popupAlbums.innerHTML = `<li>${artistAlbums}</li>`;
-    popupSingles.innerHTML = `<li>${artistSingles}</li>`;
+    let albumList = artists[index].albums;
+    albumList.forEach(function(albums){
+        popupAlbums.innerHTML = `<li>${albums.album}</li>`;
+    })
+    let singleList = artists[index].singles;
+    for(let i = 0; i<singleList.length; i++){
+        let li = document.createElement("li");
+        li.innerHTML = `<li>${singleList[i].track}</li>`
+        
+        popupSingles.appendChild(li)
+    }
+
+    popupName.innerHTML = artists[index].name;
+    popupImg.src = artists[index].img;
+    
     main.forEach(function(element){
         element.style.display = "none";
     })
     popup.style.display = "block";
 }
-
 
 
 function featuredSong(){

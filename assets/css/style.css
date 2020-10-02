@@ -138,13 +138,19 @@ audio{
 
 
 .popup{
-	position: absolute;
 	max-width: 500px;
 	background-color: #f1f1f1;
 	z-index: 3;
 	display: none;
-	text-align: center;
 	min-height: 90vh;
+	overflow-y: auto;
+	padding: 1em 0 3em;
+}
+.popup h1, .popup h2{
+	text-align: center;
+}
+.popup ul{
+	padding: 1em 5%;
 }
 
 

@@ -1,15 +1,24 @@
 {
     "artists":[
         {
+            "id": "0",
             "name": "Juice WRLD",
             "img": "./assets/images/juice_wrld.jpg",
             "singles":[
                 {
-                    "track": "ss",
-                    "artists": "Juice WRLD"
+                    "track": "Smile",
+                    "artists": "Juice WRLD, The Weeknd"
                 },
                 {
-                    "track": "aaa",
+                    "track": "Come & Go",
+                    "artists": "Juice WRLD, Marshmello"
+                },
+                {
+                    "track": "Go",
+                    "artists": "Juice WRLD, Kidd Laroi"
+                },
+                {
+                    "track": "Bandit",
                     "artists": "Juice WRLD"
                 }
             ],
@@ -112,8 +121,27 @@
             ]
         },
         {
+            "id": "1",
             "name": "A Boogie Wit da Hoodie",
             "img": "./assets/images/a_boogie.jpg",
+            "singles":[
+                {
+                    "track": "Sitting In My Car",
+                    "artists": "A Boogie Wit da Hoodie"
+                },
+                {
+                    "track": "Vroom Vroom",
+                    "artists": "A Boogie Wit da Hoodie"
+                },
+                {
+                    "track": "Point Em Out",
+                    "artists": "A Boogie Wit da Hoodie"
+                },
+                {
+                    "track": "King Of My City",
+                    "artists": "A Boogie Wit da Hoodie"
+                }
+            ],
             "albums":[
                 {
                     "album": "Artist 2.0",
@@ -204,8 +232,31 @@
             ]
         },
         {
+            "id": "2",
             "name": "Eminem",
             "img": "./assets/images/eminem.jpg",
+            "singles":[
+                {
+                    "track": "The Adventures of Moon & Slim Shady",
+                    "artists": "Eminem"
+                },
+                {
+                    "track": "Remember The Name",
+                    "artists": "Eminem"
+                },
+                {
+                    "track": "Homicide",
+                    "artists": "Eminem"
+                },
+                {
+                    "track": "Venom",
+                    "artists": "Eminem"
+                },
+                {
+                    "track": "Killshot",
+                    "artists": "Eminem"
+                }
+            ],
             "albums":[
                 {
                     "album": "Music To Be Murdered By",
@@ -292,8 +343,31 @@
             ]
         },
         {
+            "id": "3",
             "name": "Lil Uzi Vert",
             "img": "./assets/images/lil_uzi_vert.jpg",
+            "singles":[
+                {
+                    "track": "Patek",
+                    "artists": "Lil Uzi Vert"
+                },
+                {
+                    "track": "Party Girl",
+                    "artists": "Lil Uzi Vert"
+                },
+                {
+                    "track": "That Way",
+                    "artists": "Lil Uzi Vert"
+                },
+                {
+                    "track": "Sanguine Paradise",
+                    "artists": "Lil Uzi Vert"
+                },
+                {
+                    "track": "Futshal Shuffle 2020",
+                    "artists": "Lil Uzi Vert"
+                }
+            ],
             "albums":[
                 {
                     "album": "Eternal Atake",
@@ -376,8 +450,27 @@
             ]
         },
         {
+            "id": "4",
             "name": "Drake",
             "img": "./assets/images/drake.jpg",
+            "singles":[
+                {
+                    "track": "Laugh Now Cry Later",
+                    "artists": "Drake, Lil Durk"
+                },
+                {
+                    "track": "Tootsie Slide",
+                    "artists": "Drake"
+                },
+                {
+                    "track": "Life Is Good",
+                    "artists": "Drake"
+                },
+                {
+                    "track": "Look Alive",
+                    "artists": "Drake"
+                }
+            ],
             "albums":[
                 {
                     "album": "Dark Lane Demo Tapes",
