@@ -5,13 +5,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> <!-- JQUERY -->
     <link href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" rel="stylesheet">  <!-- FONTAWESOME -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> <!-- GOOGLE FONTS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
     <link rel="stylesheet" href="./assets/css/style.css" type="text/css" media="screen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
 	<title>ListenRap</title>
 </head>
 <body>
-	<div id="wrapper">
+	<div id="wrapper" class="darkMode">
         <header>
             <a href="index.html"><img src="./assets/images/logo.png" alt="ListenRap"></a>
             <nav>
@@ -29,26 +30,16 @@
                 </a>
             </nav>
         </header>
-        <header class="search">
-            <h1>Lyrics Search</h1>
-            <form method="" id="searchForm">
-                <input type="search" name="search" id="search" placeholder="Type song or artist...">
-                <button type="submit">Search</button>
-            </form>
-        </header>
         <main>
+            <section id="album">
+                <h1>Legends Never Die</h1>
+                <img src="./assets/images/legends_never_die.jpg" alt="">
+                <div class="albumSongs">
 
-            <div class="container">
-                <div id="result">
-                    <p>Results will be displayed here</p>
                 </div>
-    
-                <div id="more"></div>
-            </div>
-            
-            
+            </section>
         </main>
     </div> <!-- END WRAPPER -->
-    <script src="./assets/js/search.js" defer></script>
+    <script src="./assets/js/album.js"></script>
 </body>
 </html>

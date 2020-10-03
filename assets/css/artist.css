@@ -1,0 +1,10 @@
+#artist{
+	margin: 2em 0;
+}
+#artist h1{
+	font-size: 2em;
+	text-align: center;
+}
+#artist ul{
+	padding: 1em 2em;
+}

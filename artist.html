@@ -5,6 +5,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> <!-- JQUERY -->
     <link href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" rel="stylesheet">  <!-- FONTAWESOME -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> <!-- GOOGLE FONTS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css">
     <link rel="stylesheet" href="./assets/css/style.css" type="text/css" media="screen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
@@ -29,26 +30,19 @@
                 </a>
             </nav>
         </header>
-        <header class="search">
-            <h1>Lyrics Search</h1>
-            <form method="" id="searchForm">
-                <input type="search" name="search" id="search" placeholder="Type song or artist...">
-                <button type="submit">Search</button>
-            </form>
-        </header>
         <main>
-
-            <div class="container">
-                <div id="result">
-                    <p>Results will be displayed here</p>
-                </div>
-    
-                <div id="more"></div>
-            </div>
-            
-            
+            <section id="artist">
+                <h1>Name</h1>
+                <img src="./assets/images/legends_never_die.jpg" alt="">
+                <h2>Albums</h2>
+                <ul id="albumsUl">
+                </ul>
+                <h2>Singles</h2>
+                <ul id="singlesUl">
+                </ul>
+            </section>
         </main>
     </div> <!-- END WRAPPER -->
-    <script src="./assets/js/search.js" defer></script>
+    <script src="./assets/js/artist.js"></script>
 </body>
 </html>

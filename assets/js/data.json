@@ -7,114 +7,137 @@
             "singles":[
                 {
                     "track": "Smile",
-                    "artists": "Juice WRLD, The Weeknd"
+                    "feat": "The Weeknd"
                 },
                 {
                     "track": "Come & Go",
-                    "artists": "Juice WRLD, Marshmello"
+                    "feat": "Marshmello"
                 },
                 {
                     "track": "Go",
-                    "artists": "Juice WRLD, Kidd Laroi"
+                    "feat": "Kidd Laroi"
                 },
                 {
                     "track": "Bandit",
-                    "artists": "Juice WRLD"
+                    "feat": ""
                 }
             ],
             "albums":[
                 {
+                    "albumId": "0",
                     "album": "Legends Never Die",
                     "cover": "./assets/images/legends_never_die.jpg",
                     "songs":[
                         {
-                            "track": "Anxiety - Intro",
-                            "artists": "Juice WRLD"
+                            "trackId": "01",
+                            "track": "Anxiety",
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "02",
                             "track": "Conversations",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "03",
                             "track": "Titanic",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "04",
                             "track": "Bad Energy",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "05",
                             "track": "Righteous",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "06",
                             "track": "Blood On My Jeans",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "07",
                             "track": "Smile",
-                            "artists": "Juice WRLD, The Weeknd"
+                            "feat": "Juice WRLD, The Weeknd"
                         },
                         {
+                            "trackId": "08",
                             "track": "Tell Me U Luv Me",
-                            "artists": "Juice WRLD, Trippie Redd"
+                            "feat": "Juice WRLD, Trippie Redd"
                         },
                         {
+                            "trackId": "09",
                             "track": "Hate The Other Side",
-                            "artists": "Juice WRLD, Marshmello, The Kid LAROI, Polo G"
+                            "feat": "Juice WRLD, Marshmello, The Kid LAROI, Polo G"
                         },
                         {
+                            "trackId": "10",
                             "track": "Get Through It",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                             
                         },
                         {
+                            "trackId": "11",
                             "track": "Life's A Mess",
-                            "artists": "Juice WRLD, Halsey"
+                            "feat": "Juice WRLD, Halsey"
                         },
                         {
+                            "trackId": "12",
                             "track": "Come & Go",
-                            "artists": "Juice WRLD, Marshmello"
+                            "feat": "Juice WRLD, Marshmello"
                         },
                         {
+                            "trackId": "13",
                             "track": "I Want It",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "14",
                             "track": "Fighting Demons",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "15",
                             "track": "Wishing Well",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "16",
                             "track": "Screw Juice",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "17",
                             "track": "Up Up And Away",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "18",
                             "track": "The Man, The Myth, The Lengend",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "19",
                             "track": "Stay High",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "20",
                             "track": "Can't Die",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
+                            "trackId": "21",
                             "track": "Man Of The Year",
-                            "artists": "Juice WRLD"
+                            "feat": "Juice WRLD"
                         },
                         {
-                            "track": "Juice Wrld Speaks From Heaven - Outro",
-                            "artists": "Juice WRLD"
+                            "trackId": "22",
+                            "track": "Juice Wrld Speaks From Heaven",
+                            "feat": "Juice WRLD"
                         }
                     ]
                 }
@@ -127,105 +150,126 @@
             "singles":[
                 {
                     "track": "Sitting In My Car",
-                    "artists": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da Hoodie"
                 },
                 {
                     "track": "Vroom Vroom",
-                    "artists": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da Hoodie"
                 },
                 {
                     "track": "Point Em Out",
-                    "artists": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da Hoodie"
                 },
                 {
                     "track": "King Of My City",
-                    "artists": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da Hoodie"
                 }
             ],
             "albums":[
                 {
+                    "albumId": "0",
                     "album": "Artist 2.0",
                     "cover": "./assets/images/artist2.jpg",
                     "songs":[
                         {
+                            "trackId": "01",
                             "track": "Thug Love",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "02",
                             "track": "Cinderella Story",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "03",
                             "track": "Me and My Guitar",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "04",
                             "track": "Might Not Give Up",
-                            "artists": "A Boogie Wit da Hoodie, Young Thug"
+                            "feat": "A Boogie Wit da Hoodie, Young Thug"
                         },
                         {
+                            "trackId": "05",
                             "track": "Numbers",
-                            "artists": "A Boogie Wit da Hoodie, Roddy Ricch, Gunna, London on Da Track"
+                            "feat": "A Boogie Wit da Hoodie, Roddy Ricch, Gunna, London on Da Track"
                         },
                         {
+                            "trackId": "06",
                             "track": "Stain",
-                            "artists": "A Boogie Wit da Hoodie, DaBaby"
+                            "feat": "A Boogie Wit da Hoodie, DaBaby"
                         },
                         {
+                            "trackId": "07",
                             "track": "Hit 'Em Up",
-                            "artists": "A Boogie Wit da Hoodie, Trap Manny"
+                            "feat": "A Boogie Wit da Hoodie, Trap Manny"
                         },
                         {
+                            "trackId": "08",
                             "track": "DTB 4 Life",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "09",
                             "track": "Calm Down",
-                            "artists": "A Boogie Wit da Hoodie, Summer Walker"
+                            "feat": "A Boogie Wit da Hoodie, Summer Walker"
                         },
                         {
+                            "trackId": "10",
                             "track": "Another Day Gone",
-                            "artists": "A Boogie Wit da Hoodie, Khalid"
+                            "feat": "A Boogie Wit da Hoodie, Khalid"
                         },
                         {
+                            "trackId": "11",
                             "track": "Good Girls Gone Bad",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "12",
                             "track": "Blood On My Denim",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "13",
                             "track": "R.O.D.",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "14",
                             "track": "Big Shit",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "15",
                             "track": "Right Back",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "16",
                             "track": "Luv Is Art",
-                            "artists": "A Boogie Wit da Hoodie, Lil Uzi Vert"
+                            "feat": "A Boogie Wit da Hoodie, Lil Uzi Vert"
                         },
                         {
+                            "trackId": "17",
                             "track": "King Of My City",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "18",
                             "track": "Mood Swings",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         },
                         {
+                            "trackId": "19",
                             "track": "Reply",
-                            "artists": "A Boogie Wit da Hoodie, Lil Uzi Vert"
+                            "feat": "A Boogie Wit da Hoodie, Lil Uzi Vert"
                         },
                         {
+                            "trackId": "20",
                             "track": "Streets Don't Love You",
-                            "artists": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie"
                         }
                     ]
                 }
@@ -238,159 +282,192 @@
             "singles":[
                 {
                     "track": "The Adventures of Moon & Slim Shady",
-                    "artists": "Eminem"
+                    "feat": "Eminem"
                 },
                 {
                     "track": "Remember The Name",
-                    "artists": "Eminem"
+                    "feat": "Eminem"
                 },
                 {
                     "track": "Homicide",
-                    "artists": "Eminem"
+                    "feat": "Eminem"
                 },
                 {
                     "track": "Venom",
-                    "artists": "Eminem"
+                    "feat": "Eminem"
                 },
                 {
                     "track": "Killshot",
-                    "artists": "Eminem"
+                    "feat": "Eminem"
                 }
             ],
             "albums":[
                 {
+                    "albumId": "0",
                     "album": "Music To Be Murdered By",
                     "cover": "./assets/images/music_to_be_murdered_by.jpg",
                     "songs":[
                         {
+                            "trackId": "01",
                             "track": "Premonition - Intro",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "02",
                             "track": "Unaccomadating",
-                            "artists": "Eminem, Young M.A"
+                            "feat": "Eminem, Young M.A"
                         },
                         {
+                            "trackId": "03",
                             "track": "You Gon' Learn",
-                            "artists": "Eminem, Royce Da 5'9¨, White Gold"
+                            "feat": "Eminem, Royce Da 5'9¨, White Gold"
                         },
                         {
+                            "trackId": "04",
                             "track": "Alfred - Interlude",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "05",
                             "track": "Those Kinda Nights",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "06",
                             "track": "In To Deep",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "07",
                             "track": "Godzilla",
-                            "artists": "Eminem, Juice WRLD"
+                            "feat": "Eminem, Juice WRLD"
                         },
                         {
+                            "trackId": "08",
                             "track": "Darkness",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "09",
                             "track": "Leaving Heaven",
-                            "artists": "Eminem, Skylar Grey"
+                            "feat": "Eminem, Skylar Grey"
                         },
                         {
+                            "trackId": "10",
                             "track": "Yah Yah",
-                            "artists": "Eminem, Royce Da 5'9¨, Black Thought, Q-Tip"
+                            "feat": "Eminem, Royce Da 5'9¨, Black Thought, Q-Tip"
                         },
                         {
+                            "trackId": "11",
                             "track": "Stepdad",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "12",
                             "track": "Marsh",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "13",
                             "track": "Never Love Again",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "14",
                             "track": "Little Engine",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "15",
                             "track": "Lock It Up",
-                            "artists": "Eminem, Anderson .Paak"
+                            "feat": "Eminem, Anderson .Paak"
                         },
                         {
+                            "trackId": "16",
                             "track": "Farewell",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "17",
                             "track": "No Regrets",
-                            "artists": "Eminem, Don Toliver"
+                            "feat": "Eminem, Don Toliver"
                         },
                         {
+                            "trackId": "18",
                             "track": "I Will",
-                            "artists": "Eminem, KXNG Crooked, Royce Da 5'9¨, Joell Ortiz"
+                            "feat": "Eminem, KXNG Crooked, Royce Da 5'9¨, Joell Ortiz"
                         },
                         {
+                            "trackId": "19",
                             "track": "Alfred - Outro",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         }
                     ]
                 },
                 {
+                    "albumId": "1",
                     "album": "Kamikaze",
                     "cover": "./assets/images/kamikaze.jpg",
                     "songs":[
                         {
+                            "trackId": "01",
                             "track": "The Ringer",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "02",
                             "track": "Greatest",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "03",
                             "track": "Lucky You",
-                            "artists": "Eminem, Joyner Lucas"
+                            "feat": "Eminem, Joyner Lucas"
                         },
                         {
+                            "trackId": "04",
                             "track": "Normal",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "05",
                             "track": "Em Calls Paul",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "06",
                             "track": "Stepping Stone",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "07",
                             "track": "Not Alike",
-                            "artists": "Eminem, Royce Da 5'9¨"
+                            "feat": "Eminem, Royce Da 5'9¨"
                         },
                         {
+                            "trackId": "08",
                             "track": "Kamikaze",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "09",
                             "track": "Fall",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         },
                         {
+                            "trackId": "10",
                             "track": "Nice Guy",
-                            "artists": "Eminem, Jessie Reyez"
+                            "feat": "Eminem, Jessie Reyez"
                         },
                         {
+                            "trackId": "11",
                             "track": "Good Guy",
-                            "artists": "Eminem, Jessie Reyez"
+                            "feat": "Eminem, Jessie Reyez"
                         },
                         {
+                            "trackId": "12",
                             "track": "Venom",
-                            "artists": "Eminem"
+                            "feat": "Eminem"
                         }
                     ]
                 }
@@ -403,101 +480,120 @@
             "singles":[
                 {
                     "track": "Patek",
-                    "artists": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert"
                 },
                 {
                     "track": "Party Girl",
-                    "artists": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert"
                 },
                 {
                     "track": "That Way",
-                    "artists": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert"
                 },
                 {
                     "track": "Sanguine Paradise",
-                    "artists": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert"
                 },
                 {
                     "track": "Futshal Shuffle 2020",
-                    "artists": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert"
                 }
             ],
             "albums":[
                 {
+                    "albumId": "0",
                     "album": "Eternal Atake",
                     "cover": "./assets/images/eternal_atake.jpg",
                     "songs":[
                         {
+                            "trackId": "01",
                             "track": "Baby Pluto",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "02",
                             "track": "Lo Mein",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "03",
                             "track": "Silly Watch",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "04",
                             "track": "POP",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "05",
                             "track": "You Better Move",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "06",
                             "track": "Homecoming",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "07",
                             "track": "I'm Sorry",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "08",
                             "track": "Celebration Station",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "09",
                             "track": "Bigger Than Life",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "10",
                             "track": "Chrome Heart Tags",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "11",
                             "track": "Bust Me",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "12",
                             "track": "Prices",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "13",
                             "track": "Urgency",
-                            "artists": "Lil Uzi Vert, Syd"
+                            "feat": "Lil Uzi Vert, Syd"
                         },
                         {
+                            "trackId": "14",
                             "track": "Venetia",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "15",
                             "track": "Secure The Bag",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "16",
                             "track": "P2",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "17",
                             "track": "Futsal Shuffle 2020",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         },
                         {
+                            "trackId": "18",
                             "track": "That Way",
-                            "artists": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert"
                         }
                     ]
                 }
@@ -510,81 +606,96 @@
             "singles":[
                 {
                     "track": "Laugh Now Cry Later",
-                    "artists": "Drake, Lil Durk"
+                    "feat": "Drake, Lil Durk"
                 },
                 {
                     "track": "Tootsie Slide",
-                    "artists": "Drake"
+                    "feat": "Drake"
                 },
                 {
                     "track": "Life Is Good",
-                    "artists": "Drake"
+                    "feat": "Drake"
                 },
                 {
                     "track": "Look Alive",
-                    "artists": "Drake"
+                    "feat": "Drake"
                 }
             ],
             "albums":[
                 {
+                    "albumId": "0",
                     "album": "Dark Lane Demo Tapes",
                     "cover": "./assets/images/dark_lane_demo_tapes.jpg",
                     "songs":[
                         {
+                            "trackId": "01",
                             "track": "Deep Pockets",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         },
                         {
+                            "trackId": "02",
                             "track": "When To Say When",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         },
                         {
+                            "trackId": "03",
                             "track": "Chicago Freestyle",
-                            "artists": "Drake, Giveon"
+                            "feat": "Drake, Giveon"
                         },
                         {
+                            "trackId": "04",
                             "track": "Not You Too",
-                            "artists": "Drake, Chris Brown"
+                            "feat": "Drake, Chris Brown"
                         },
                         {
+                            "trackId": "05",
                             "track": "Toosie Slide",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         },
                         {
+                            "trackId": "06",
                             "track": "Desires",
-                            "artists": "Drake, Future"
+                            "feat": "Drake, Future"
                         },
                         {
+                            "trackId": "07",
                             "track": "Time Flies",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         },
                         {
+                            "trackId": "08",
                             "track": "Landed",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         },
                         {
+                            "trackId": "09",
                             "track": "D4L",
-                            "artists": "Drake, Future, Young Thug"
+                            "feat": "Drake, Future, Young Thug"
                         },
                         {
+                            "trackId": "10",
                             "track": "Pain 1993",
-                            "artists": "Drake, Playboi Carti"
+                            "feat": "Drake, Playboi Carti"
                         },
                         {
+                            "trackId": "11",
                             "track": "Losses",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         },
                         {
+                            "trackId": "12",
                             "track": "From Florida With Love",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         },
                         {
+                            "trackId": "13",
                             "track": "Demons",
-                            "artists": "Drake, Fivio Foreign, Sosa Geek"
+                            "feat": "Drake, Fivio Foreign, Sosa Geek"
                         },
                         {
+                            "trackId": "14",
                             "track": "War",
-                            "artists": "Drake"
+                            "feat": "Drake"
                         }
                     ]
                 }
