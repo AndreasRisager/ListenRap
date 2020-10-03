@@ -31,12 +31,24 @@ async function showAlbum() {
                 <h5 class="feat"> ${song.feat}</h5>
             </div>
             <div class="like">
-                <i class="far fa-heart"></i>
+                <i class="fas fa-heart"></i>
             </div>
-            <a href="" target="_blank" class="play">
+            <a href="${song.link}" target="_blank" class="play">
                 <i class="far fa-play-circle"></i>
             </a>
         `
         albumSongs.appendChild(albumSong)
+
     })
+    const like = document.querySelectorAll(".like i");
+    for(let i=0; i<like.length; i++){
+        like[i].addEventListener("click", () => {
+            if(like[i].classList.contains('active')){
+                like[i].classList.remove('active');
+            } else {
+                like[i].classList.add('active');
+            }
+        })
+    }
+    //When heart is clicked change class and add to LS
 }

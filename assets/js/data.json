@@ -7,19 +7,23 @@
             "singles":[
                 {
                     "track": "Smile",
-                    "feat": "The Weeknd"
+                    "feat": "The Weeknd",
+                    "link": "https://youtu.be/2avPJ9TZNmU"
                 },
                 {
                     "track": "Come & Go",
-                    "feat": "Marshmello"
+                    "feat": "Marshmello",
+                    "link": "https://youtu.be/Dxm3cHrKcbA"
                 },
                 {
                     "track": "Go",
-                    "feat": "Kidd Laroi"
+                    "feat": "Kidd Laroi",
+                    "link": "https://youtu.be/ZD6C498MB4U"
                 },
                 {
                     "track": "Bandit",
-                    "feat": ""
+                    "feat": "",
+                    "link": "https://youtu.be/Sw5fNI400E4"
                 }
             ],
             "albums":[
@@ -31,113 +35,135 @@
                         {
                             "trackId": "01",
                             "track": "Anxiety",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/Jc_ppcB7_Yk"
                         },
                         {
                             "trackId": "02",
                             "track": "Conversations",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/1VSZtyenNlA"
                         },
                         {
                             "trackId": "03",
                             "track": "Titanic",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/8U_W8NmjApM"
                         },
                         {
                             "trackId": "04",
                             "track": "Bad Energy",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/EfP3Ya5-JoU"
                         },
                         {
                             "trackId": "05",
                             "track": "Righteous",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/ZengOKCUBHo"
                         },
                         {
                             "trackId": "06",
                             "track": "Blood On My Jeans",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/3Klj_pjjqUM"
                         },
                         {
                             "trackId": "07",
                             "track": "Smile",
-                            "feat": "Juice WRLD, The Weeknd"
+                            "feat": "Juice WRLD, The Weeknd",
+                            "link": "https://youtu.be/2avPJ9TZNmU"
                         },
                         {
                             "trackId": "08",
                             "track": "Tell Me U Luv Me",
-                            "feat": "Juice WRLD, Trippie Redd"
+                            "feat": "Juice WRLD, Trippie Redd",
+                            "link": "https://youtu.be/ddoFu4sDXpU"
                         },
                         {
                             "trackId": "09",
                             "track": "Hate The Other Side",
-                            "feat": "Juice WRLD, Marshmello, The Kid LAROI, Polo G"
+                            "feat": "Juice WRLD, Marshmello, The Kid LAROI, Polo G",
+                            "link": "https://youtu.be/rp2e4-Sh0Hc"
                         },
                         {
                             "trackId": "10",
                             "track": "Get Through It",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/j78DQ03wE-A"
                             
                         },
                         {
                             "trackId": "11",
                             "track": "Life's A Mess",
-                            "feat": "Juice WRLD, Halsey"
+                            "feat": "Juice WRLD, Halsey",
+                            "link": "https://youtu.be/IetcXhv83gQ"
                         },
                         {
                             "trackId": "12",
                             "track": "Come & Go",
-                            "feat": "Juice WRLD, Marshmello"
+                            "feat": "Juice WRLD, Marshmello",
+                            "link": "https://youtu.be/5Di20x6vVVU"
                         },
                         {
                             "trackId": "13",
                             "track": "I Want It",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/0Hi2KQWmNM0"
                         },
                         {
                             "trackId": "14",
                             "track": "Fighting Demons",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/rJZynxvJnlI"
                         },
                         {
                             "trackId": "15",
                             "track": "Wishing Well",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/Q3zpwgQK8Yg"
                         },
                         {
                             "trackId": "16",
                             "track": "Screw Juice",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/avzAOoo0VPg"
                         },
                         {
                             "trackId": "17",
                             "track": "Up Up And Away",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/iNKMpBaCkhk"
                         },
                         {
                             "trackId": "18",
                             "track": "The Man, The Myth, The Lengend",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/j2XBQu_2Wdk"
                         },
                         {
                             "trackId": "19",
                             "track": "Stay High",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/Z9yaG27quz0"
                         },
                         {
                             "trackId": "20",
                             "track": "Can't Die",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/djkMIxtjIm4"
                         },
                         {
                             "trackId": "21",
                             "track": "Man Of The Year",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/_YwppMLPoPg"
                         },
                         {
                             "trackId": "22",
                             "track": "Juice Wrld Speaks From Heaven",
-                            "feat": "Juice WRLD"
+                            "feat": "Juice WRLD",
+                            "link": "https://youtu.be/nFhTrfE6MtI"
                         }
                     ]
                 }
@@ -150,19 +176,23 @@
             "singles":[
                 {
                     "track": "Sitting In My Car",
-                    "feat": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da, Hoodie",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Vroom Vroom",
-                    "feat": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da, Hoodie",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Point Em Out",
-                    "feat": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da, Hoodie",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "King Of My City",
-                    "feat": "A Boogie Wit da Hoodie"
+                    "feat": "A Boogie Wit da, Hoodie",
+                    "link": "https://you.be/"
                 }
             ],
             "albums":[
@@ -174,102 +204,122 @@
                         {
                             "trackId": "01",
                             "track": "Thug Love",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/8ru7hsJziSw"
                         },
                         {
                             "trackId": "02",
                             "track": "Cinderella Story",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/zc1Qp-4WR-0"
                         },
                         {
                             "trackId": "03",
                             "track": "Me and My Guitar",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/R-QfE5Cuo2Y"
                         },
                         {
                             "trackId": "04",
                             "track": "Might Not Give Up",
-                            "feat": "A Boogie Wit da Hoodie, Young Thug"
+                            "feat": "A Boogie Wit da Hoodie, Young Thug",
+                            "link": "https://youtu.be/BA-wtDx4jng"
                         },
                         {
                             "trackId": "05",
                             "track": "Numbers",
-                            "feat": "A Boogie Wit da Hoodie, Roddy Ricch, Gunna, London on Da Track"
+                            "feat": "A Boogie Wit da Hoodie, Roddy Ricch, Gunna, London on Da Track",
+                            "link": "https://youtu.be/9YU4gN42fkI"
                         },
                         {
                             "trackId": "06",
                             "track": "Stain",
-                            "feat": "A Boogie Wit da Hoodie, DaBaby"
+                            "feat": "A Boogie Wit da Hoodie, DaBaby",
+                            "link": "https://youtu.be/oiLyMoWQMOI"
                         },
                         {
                             "trackId": "07",
                             "track": "Hit 'Em Up",
-                            "feat": "A Boogie Wit da Hoodie, Trap Manny"
+                            "feat": "A Boogie Wit da Hoodie, Trap Manny",
+                            "link": "https://youtu.be/HC2qbuNZzwk"
                         },
                         {
                             "trackId": "08",
                             "track": "DTB 4 Life",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/npdSw2L_J3Y"
                         },
                         {
                             "trackId": "09",
                             "track": "Calm Down",
-                            "feat": "A Boogie Wit da Hoodie, Summer Walker"
+                            "feat": "A Boogie Wit da Hoodie, Summer Walker",
+                            "link": "https://youtu.be/VtlMkpXFjZo"
                         },
                         {
                             "trackId": "10",
                             "track": "Another Day Gone",
-                            "feat": "A Boogie Wit da Hoodie, Khalid"
+                            "feat": "A Boogie Wit da Hoodie, Khalid",
+                            "link": "https://youtu.be/8JEXahVswbM"
                         },
                         {
                             "trackId": "11",
                             "track": "Good Girls Gone Bad",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/dYFdReSEeBw"
                         },
                         {
                             "trackId": "12",
                             "track": "Blood On My Denim",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/QQdasVBuWDw"
                         },
                         {
                             "trackId": "13",
                             "track": "R.O.D.",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/GA0iMLRX8gE"
                         },
                         {
                             "trackId": "14",
                             "track": "Big Shit",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/03RbFC6HBjQ"
                         },
                         {
                             "trackId": "15",
                             "track": "Right Back",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/tJW0ZchDSns"
                         },
                         {
                             "trackId": "16",
                             "track": "Luv Is Art",
-                            "feat": "A Boogie Wit da Hoodie, Lil Uzi Vert"
+                            "feat": "A Boogie Wit da Hoodie, Lil Uzi Vert",
+                            "link": "https://youtu.be/4htn2i1V3Xc"
                         },
                         {
                             "trackId": "17",
                             "track": "King Of My City",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/gnBBEv5a-F8"
                         },
                         {
                             "trackId": "18",
                             "track": "Mood Swings",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/8-xqc0M8C6s"
                         },
                         {
                             "trackId": "19",
                             "track": "Reply",
-                            "feat": "A Boogie Wit da Hoodie, Lil Uzi Vert"
+                            "feat": "A Boogie Wit da Hoodie, Lil Uzi Vert",
+                            "link": "https://youtu.be/9f9sQ2Kis9Q"
                         },
                         {
                             "trackId": "20",
                             "track": "Streets Don't Love You",
-                            "feat": "A Boogie Wit da Hoodie"
+                            "feat": "A Boogie Wit da Hoodie",
+                            "link": "https://youtu.be/p8POI-OieNs"
                         }
                     ]
                 }
@@ -282,23 +332,28 @@
             "singles":[
                 {
                     "track": "The Adventures of Moon & Slim Shady",
-                    "feat": "Eminem"
+                    "feat": "Eminem",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Remember The Name",
-                    "feat": "Eminem"
+                    "feat": "Eminem",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Homicide",
-                    "feat": "Eminem"
+                    "feat": "Eminem",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Venom",
-                    "feat": "Eminem"
+                    "feat": "Eminem",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Killshot",
-                    "feat": "Eminem"
+                    "feat": "Eminem",
+                    "link": "https://you.be/"
                 }
             ],
             "albums":[
@@ -310,97 +365,116 @@
                         {
                             "trackId": "01",
                             "track": "Premonition - Intro",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/hlFOLS7vKaQ"
                         },
                         {
                             "trackId": "02",
                             "track": "Unaccomadating",
-                            "feat": "Eminem, Young M.A"
+                            "feat": "Eminem, Young M.A",
+                            "link": "https://youtu.be/MHZGOJ1kysc"
                         },
                         {
                             "trackId": "03",
                             "track": "You Gon' Learn",
-                            "feat": "Eminem, Royce Da 5'9¨, White Gold"
+                            "feat": "Eminem, Royce Da 5'9¨, White Gold",
+                            "link": "https://youtu.be/RnNJ7uVR7hM"
                         },
                         {
                             "trackId": "04",
                             "track": "Alfred - Interlude",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/OtKW2_7nnMc"
                         },
                         {
                             "trackId": "05",
                             "track": "Those Kinda Nights",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/o6BYffaYzL4"
                         },
                         {
                             "trackId": "06",
                             "track": "In To Deep",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/cmxdavhOg0Q"
                         },
                         {
                             "trackId": "07",
                             "track": "Godzilla",
-                            "feat": "Eminem, Juice WRLD"
+                            "feat": "Eminem, Juice WRLD",
+                            "link": "https://youtu.be/r_0JjYUe5jo"
                         },
                         {
                             "trackId": "08",
                             "track": "Darkness",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/RHQC4fAhcbU"
                         },
                         {
                             "trackId": "09",
                             "track": "Leaving Heaven",
-                            "feat": "Eminem, Skylar Grey"
+                            "feat": "Eminem, Skylar Grey",
+                            "link": "https://youtu.be/ftujE679Wx0"
                         },
                         {
                             "trackId": "10",
                             "track": "Yah Yah",
-                            "feat": "Eminem, Royce Da 5'9¨, Black Thought, Q-Tip"
+                            "feat": "Eminem, Royce Da 5'9¨, Black Thought, Q-Tip",
+                            "link": "https://youtu.be/BZ09A39xECk"
                         },
                         {
                             "trackId": "11",
                             "track": "Stepdad",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/yf52IpdAZKg"
                         },
                         {
                             "trackId": "12",
                             "track": "Marsh",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/0WkIZwM5_vc"
                         },
                         {
                             "trackId": "13",
                             "track": "Never Love Again",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/H5v-FO-jMS0"
                         },
                         {
                             "trackId": "14",
                             "track": "Little Engine",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/trmoIfUVctQ"
                         },
                         {
                             "trackId": "15",
                             "track": "Lock It Up",
-                            "feat": "Eminem, Anderson .Paak"
+                            "feat": "Eminem, Anderson .Paak",
+                            "link": "https://youtu.be/7jR65jnUyvA"
                         },
                         {
                             "trackId": "16",
                             "track": "Farewell",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/HSADF70r-a8"
                         },
                         {
                             "trackId": "17",
                             "track": "No Regrets",
-                            "feat": "Eminem, Don Toliver"
+                            "feat": "Eminem, Don Toliver",
+                            "link": "https://youtu.be/RuEJucg1boQ"
                         },
                         {
                             "trackId": "18",
                             "track": "I Will",
-                            "feat": "Eminem, KXNG Crooked, Royce Da 5'9¨, Joell Ortiz"
+                            "feat": "Eminem, KXNG Crooked, Royce Da 5'9¨, Joell Ortiz",
+                            "link": "https://youtu.be/qZp5gf9xgnE"
                         },
                         {
                             "trackId": "19",
                             "track": "Alfred - Outro",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/eaDRoEe_B08"
                         }
                     ]
                 },
@@ -412,62 +486,74 @@
                         {
                             "trackId": "01",
                             "track": "The Ringer",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/ACNgFW50EbU"
                         },
                         {
                             "trackId": "02",
                             "track": "Greatest",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/OefOq742TzQ"
                         },
                         {
                             "trackId": "03",
                             "track": "Lucky You",
-                            "feat": "Eminem, Joyner Lucas"
+                            "feat": "Eminem, Joyner Lucas",
+                            "link": "https://youtu.be/mvSItvjFE1c"
                         },
                         {
                             "trackId": "04",
                             "track": "Normal",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/90pxxqHxRlc"
                         },
                         {
                             "trackId": "05",
                             "track": "Em Calls Paul",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/atBSnJO5lwA"
                         },
                         {
                             "trackId": "06",
                             "track": "Stepping Stone",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/Ia3ZgnQF5ko"
                         },
                         {
                             "trackId": "07",
                             "track": "Not Alike",
-                            "feat": "Eminem, Royce Da 5'9¨"
+                            "feat": "Eminem, Royce Da 5'9¨",
+                            "link": "https://youtu.be/TgOF7VI3uyY"
                         },
                         {
                             "trackId": "08",
                             "track": "Kamikaze",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/FhF9RwkHAJw"
                         },
                         {
                             "trackId": "09",
                             "track": "Fall",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/MfTbHITdhEI"
                         },
                         {
                             "trackId": "10",
                             "track": "Nice Guy",
-                            "feat": "Eminem, Jessie Reyez"
+                            "feat": "Eminem, Jessie Reyez",
+                            "link": "https://youtu.be/JvRdzLgSyBI"
                         },
                         {
                             "trackId": "11",
                             "track": "Good Guy",
-                            "feat": "Eminem, Jessie Reyez"
+                            "feat": "Eminem, Jessie Reyez",
+                            "link": "https://youtu.be/X-TkrWpO75k"
                         },
                         {
                             "trackId": "12",
                             "track": "Venom",
-                            "feat": "Eminem"
+                            "feat": "Eminem",
+                            "link": "https://youtu.be/8CdcCD5V-d8"
                         }
                     ]
                 }
@@ -480,23 +566,28 @@
             "singles":[
                 {
                     "track": "Patek",
-                    "feat": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Party Girl",
-                    "feat": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "That Way",
-                    "feat": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Sanguine Paradise",
-                    "feat": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Futshal Shuffle 2020",
-                    "feat": "Lil Uzi Vert"
+                    "feat": "Lil Uzi Vert",
+                    "link": "https://you.be/"
                 }
             ],
             "albums":[
@@ -508,92 +599,110 @@
                         {
                             "trackId": "01",
                             "track": "Baby Pluto",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/juoznBaQbJE"
                         },
                         {
                             "trackId": "02",
                             "track": "Lo Mein",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/35enS3ApjIc"
                         },
                         {
                             "trackId": "03",
                             "track": "Silly Watch",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/HsqXHg9vmjs"
                         },
                         {
                             "trackId": "04",
                             "track": "POP",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/J7JXgKfBqzM"
                         },
                         {
                             "trackId": "05",
                             "track": "You Better Move",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/OVJYrKkpb8I"
                         },
                         {
                             "trackId": "06",
                             "track": "Homecoming",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/7B9i2o2LJ-o"
                         },
                         {
                             "trackId": "07",
                             "track": "I'm Sorry",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/6y4Ww4rKRSU"
                         },
                         {
                             "trackId": "08",
                             "track": "Celebration Station",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/XLNbskqZml0"
                         },
                         {
                             "trackId": "09",
                             "track": "Bigger Than Life",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/AsTnj-kLfJw"
                         },
                         {
                             "trackId": "10",
                             "track": "Chrome Heart Tags",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/GMHcm7xzsww"
                         },
                         {
                             "trackId": "11",
                             "track": "Bust Me",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/SnfipWGQfAk"
                         },
                         {
                             "trackId": "12",
                             "track": "Prices",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/unW5KdvSMZw"
                         },
                         {
                             "trackId": "13",
                             "track": "Urgency",
-                            "feat": "Lil Uzi Vert, Syd"
+                            "feat": "Lil Uzi Vert, Syd",
+                            "link": "https://youtu.be/XP9M8OB0Rlw"
                         },
                         {
                             "trackId": "14",
                             "track": "Venetia",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/hihYATpt9oo"
                         },
                         {
                             "trackId": "15",
                             "track": "Secure The Bag",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/bC6K8abKbDg"
                         },
                         {
                             "trackId": "16",
                             "track": "P2",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/yUAF0nKN0Ck"
                         },
                         {
                             "trackId": "17",
                             "track": "Futsal Shuffle 2020",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/nwE_BsjBSUw"
                         },
                         {
                             "trackId": "18",
                             "track": "That Way",
-                            "feat": "Lil Uzi Vert"
+                            "feat": "Lil Uzi Vert",
+                            "link": "https://youtu.be/PR-duMh19FY"
                         }
                     ]
                 }
@@ -606,19 +715,23 @@
             "singles":[
                 {
                     "track": "Laugh Now Cry Later",
-                    "feat": "Drake, Lil Durk"
+                    "feat": "Drake, Lil Durk",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Tootsie Slide",
-                    "feat": "Drake"
+                    "feat": "Drake",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Life Is Good",
-                    "feat": "Drake"
+                    "feat": "Drake",
+                    "link": "https://you.be/"
                 },
                 {
                     "track": "Look Alive",
-                    "feat": "Drake"
+                    "feat": "Drake",
+                    "link": "https://you.be/"
                 }
             ],
             "albums":[
@@ -630,72 +743,86 @@
                         {
                             "trackId": "01",
                             "track": "Deep Pockets",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/LDMTjY-QgD0"
                         },
                         {
                             "trackId": "02",
                             "track": "When To Say When",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/qTNFIQyWe8M"
                         },
                         {
                             "trackId": "03",
                             "track": "Chicago Freestyle",
-                            "feat": "Drake, Giveon"
+                            "feat": "Drake, Giveon",
+                            "link": "https://youtu.be/p9pf5EyOgcs"
                         },
                         {
                             "trackId": "04",
                             "track": "Not You Too",
-                            "feat": "Drake, Chris Brown"
+                            "feat": "Drake, Chris Brown",
+                            "link": "https://youtu.be/ZX_mvoY_Hg0"
                         },
                         {
                             "trackId": "05",
                             "track": "Toosie Slide",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/xWggTb45brM"
                         },
                         {
                             "trackId": "06",
                             "track": "Desires",
-                            "feat": "Drake, Future"
+                            "feat": "Drake, Future",
+                            "link": "https://youtu.be/nGXCuAHEjYI"
                         },
                         {
                             "trackId": "07",
                             "track": "Time Flies",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/OjgBxXNP3gw"
                         },
                         {
                             "trackId": "08",
                             "track": "Landed",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/mx7oBDVL7Y4"
                         },
                         {
                             "trackId": "09",
                             "track": "D4L",
-                            "feat": "Drake, Future, Young Thug"
+                            "feat": "Drake, Future, Young Thug",
+                            "link": "https://youtu.be/m3HC1nyexwE"
                         },
                         {
                             "trackId": "10",
                             "track": "Pain 1993",
-                            "feat": "Drake, Playboi Carti"
+                            "feat": "Drake, Playboi Carti",
+                            "link": "https://youtu.be/Q5jnuOCJvK0"
                         },
                         {
                             "trackId": "11",
                             "track": "Losses",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/V7iHOPpKRJc"
                         },
                         {
                             "trackId": "12",
                             "track": "From Florida With Love",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/8sJlnTMOpGM"
                         },
                         {
                             "trackId": "13",
                             "track": "Demons",
-                            "feat": "Drake, Fivio Foreign, Sosa Geek"
+                            "feat": "Drake, Fivio Foreign, Sosa Geek",
+                            "link": "https://youtu.be/ecopKVhf5io"
                         },
                         {
                             "trackId": "14",
                             "track": "War",
-                            "feat": "Drake"
+                            "feat": "Drake",
+                            "link": "https://youtu.be/lIlMtVGI5Pg"
                         }
                     ]
                 }

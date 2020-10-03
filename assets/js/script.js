@@ -64,10 +64,3 @@ function featuredSong(){
     })
 }
 featuredSong();
-
-async function topAlbums(){
-    const resp = await fetch(`./assets/js/data.json`);
-    const data = await resp.json();
-    //console.log(data);
-}
-topAlbums();

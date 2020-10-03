@@ -8,3 +8,6 @@
 #artist ul{
 	padding: 1em 2em;
 }
+#albumsUl li{
+	text-decoration: underline;
+}

@@ -24,11 +24,14 @@
     font-weight: 100;
     font-size: 1.2em;
 }
-.albumSong .like:hover, .albumSong .play:hover{
+/* .albumSong .like:hover, .albumSong .play:hover{
     color: #000;
     cursor: pointer;
-}
+} */
 .feat{
     font-size: 0.5em;
     color: #BBB;
+}
+.fa-heart.active{
+    color: #F00;
 }
