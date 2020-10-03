@@ -28,7 +28,7 @@ async function showAlbum() {
             <span class="trackId">${song.trackId}</span>
             <div>
                 <h3>${song.track}</h3>
-                <h5 class="feat"> ${song.feat}</h5>
+                <h5 class="feat">${song.feat}</h5>
             </div>
             <div class="like">
                 <i class="fas fa-heart"></i>
@@ -50,5 +50,4 @@ async function showAlbum() {
             }
         })
     }
-    //When heart is clicked change class and add to LS
 }

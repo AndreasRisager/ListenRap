@@ -827,6 +827,211 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "5",
+            "name": "Trippie Redd",
+            "img": "./assets/images/trippie_redd.jpg",
+            "singles":[
+                {
+                    "track": "Dreamer",
+                    "feat": "Trippie Redd",
+                    "link": "https://youtu.be/waYEYk4xfbs"
+                },
+                {
+                    "track": " I Got You",
+                    "feat": "Trippie Redd, Busta Rhymes",
+                    "link": "https://youtu.be/No2FjGBcdhY"
+                },
+                {
+                    "track": "Snake Skin",
+                    "feat": "Trippie Redd",
+                    "link": "https://youtu.be/ZD6C498MB4U"
+                },
+                {
+                    "track": "Wish",
+                    "feat": "Trippie Redd, Diplo",
+                    "link": "https://youtu.be/efxiDBygvdg"
+                }
+            ],
+            "albums":[
+                {
+                    "albumId": "0",
+                    "album": "A Love Letter To You 4",
+                    "cover": "./assets/images/a_love_letter_to_you4.jpg",
+                    "songs":[
+                        {
+                            "trackId": "01",
+                            "track": "I Love You",
+                            "feat": "Trippie Redd, Chance The Rapper",
+                            "link": "https://youtu.be/Fgx05atP09I"
+                        },
+                        {
+                            "trackId": "02",
+                            "track": "The Way",
+                            "feat": "Trippie Redd, Russ",
+                            "link": "https://youtu.be/UnL8-Bwm2Yg"
+                        },
+                        {
+                            "trackId": "03",
+                            "track": "Yell Oh",
+                            "feat": "Trippie Redd, Young Thug",
+                            "link": "https://youtu.be/lzUhFR30VhU"
+                        },
+                        {
+                            "trackId": "04",
+                            "track": "How I Was Raised",
+                            "feat": "Trippie Redd, Lil Tecca",
+                            "link": "https://youtu.be/g_3o_6IyU_U"
+                        },
+                        {
+                            "trackId": "05",
+                            "track": "Even Steven",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/g1o72TUrEVc"
+                        },
+                        {
+                            "trackId": "06",
+                            "track": "Amazinggg",
+                            "feat": "Trippie Redd, SahBabii",
+                            "link": "https://youtu.be/_OQLvbWKRnQ"
+                        },
+                        {
+                            "trackId": "07",
+                            "track": "OTF Knightmare",
+                            "feat": "Trippie Redd, Lil Durk, G Herbo",
+                            "link": "https://youtu.be/ve7id8wBKLE"
+                        },
+                        {
+                            "trackId": "08",
+                            "track": "Koi",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/K3yTzNBhZ7s"
+                        },
+                        {
+                            "trackId": "09",
+                            "track": "Leray",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/Krycppt1ZqI"
+                        },
+                        {
+                            "trackId": "10",
+                            "track": "Who Needs Love",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/WuSMyJZs7qk"
+                            
+                        },
+                        {
+                            "trackId": "11",
+                            "track": "Love Sick",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/lw1FAHzBci4"
+                        },
+                        {
+                            "trackId": "12",
+                            "track": "Love Me More",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/kG545zy2eUs"
+                        },
+                        {
+                            "trackId": "13",
+                            "track": "Real Feel",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/30zRW8hN2Kc"
+                        },
+                        {
+                            "trackId": "14",
+                            "track": "That Ain't That",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/BQlJXwLy-N4"
+                        },
+                        {
+                            "trackId": "15",
+                            "track": "6 Kiss",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/qp21I-QxM1s"
+                        },
+                        {
+                            "trackId": "16",
+                            "track": "Till The End Of Time",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/xqvEWirb2ag"
+                        },
+                        {
+                            "trackId": "17",
+                            "track": "Hate Me",
+                            "feat": "Trippie Redd, NBA YoungBoy",
+                            "link": "https://youtu.be/yxI49azC4iU"
+                        },
+                        {
+                            "trackId": "18",
+                            "track": "All For Me",
+                            "feat": "Trippie Redd, Smokepurpp",
+                            "link": "https://youtu.be/k4pxv_AQ058"
+                        },
+                        {
+                            "trackId": "19",
+                            "track": "Sickening",
+                            "feat": "Trippie Redd, Tory Lanez",
+                            "link": "https://youtu.be/sV06D2i6_PQ"
+                        },
+                        {
+                            "trackId": "20",
+                            "track": "The Grinch",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/dc_Ulob124c"
+                        },
+                        {
+                            "trackId": "21",
+                            "track": "Death",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/18XQaj7c59M"
+                        },
+                        {
+                            "trackId": "22",
+                            "track": "RMP",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/Gk6wgyeOdww"
+                        },
+                        {
+                            "trackId": "23",
+                            "track": "M's",
+                            "feat": "Trippie Redd, Lil Yachty, Pi'erre Bourne",
+                            "link": "https://youtu.be/AGRqBQ1bdl4"
+                        },
+                        {
+                            "trackId": "24",
+                            "track": "Bust Down Deux",
+                            "feat": "Trippie Redd, Youv Dee",
+                            "link": "https://youtu.be/0kJKnIzApD0"
+                        },
+                        {
+                            "trackId": "25",
+                            "track": "The Jungle Book",
+                            "feat": "Trippie Redd, Lil Wop",
+                            "link": "https://youtu.be/Xu2o1KrWQMo"
+                        },
+                        {
+                            "trackId": "26",
+                            "track": "Chosen",
+                            "feat": "Trippie Redd",
+                            "link": "https://youtu.be/6iThblcJzmc"
+                        },
+                        {
+                            "trackId": "27",
+                            "track": "Abandoned ",
+                            "feat": "Trippie Redd, Mariah The Scientist",
+                            "link": "https://youtu.be/Ir2TtAdhT9A"
+                        },
+                        {
+                            "trackId": "28",
+                            "track": "Can You Rap Like Me",
+                            "feat": "Trippie Redd, Chris King",
+                            "link": "https://youtu.be/KNrTJ9GM11Q"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -92,9 +92,11 @@ main{
 }
 .playFeatured{
 	display: grid;
-	color: #FFF;
-	font-size: 2em;
-	align-items: center;
+}
+.playFeatured a{
+	color: rgba(255, 255, 255, 0.7);
+	font-size: 3em;
+	align-self: center;
 }
 .playFeatured img, .playFeatured a{
 	grid-area: 1/1/1/1;
@@ -116,9 +118,6 @@ main{
 	color: #c4c3c3;
 	font-weight: 100;
 }
-/* .glider-track{
-	width: 800px !important;
-} */
 
 /* LEADERBOARD SECTION */
 #leaderboard{
@@ -126,6 +125,7 @@ main{
 }
 .topAlbumImg{
 	display: grid;
+	grid-column-gap: 1em;
 }
 .topAlbumImg img,.topAlbumImg span{
 	grid-area: 1/1/1/1;
@@ -138,6 +138,21 @@ main{
 	color: #000;
 	order: 2;
 	text-shadow: 1px 1px 0px #FFF;
+}
+.topAlbum{
+	padding: 0.2em 0;
+	margin-right: 1em;
+}
+.topAlbum:last-child{
+	margin-right: 0;
+}
+.topAlbum h2{
+	color: #0c0c0c;
+	font-size: 1.3em;
+}
+.topAlbum h3{
+	color: #5c5c5c;
+	font-size: 0.8em;
 }
 
 
