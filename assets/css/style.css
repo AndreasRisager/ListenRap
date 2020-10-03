@@ -90,6 +90,16 @@ main{
 	width: 80%;
 	margin: 0 auto;
 }
+.playFeatured{
+	display: grid;
+	color: #FFF;
+	font-size: 2em;
+	align-items: center;
+}
+.playFeatured img, .playFeatured a{
+	grid-area: 1/1/1/1;
+}
+
 #artists{
 	padding: 2em 0;
 }

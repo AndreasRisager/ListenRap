@@ -56,7 +56,10 @@ function featuredSong(){
         featuredCard.classList.add('featuredCard');
 
         featuredCard.innerHTML = `
-        <img src="${randomAlbum.cover}" alt="">
+        <div class="playFeatured">
+            <img src="${randomAlbum.cover}" alt="">
+            <a href="${randomSong.link}" target="_blank"><i class="far fa-play-circle"></i></a>
+        </div>
         <h2>${randomSong.track}</h2>
         <h3>${randomArtist.name}</h3>
         `
