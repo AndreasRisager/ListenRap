@@ -12,8 +12,8 @@ async function showArtist(id) {
     let index = artists.findIndex(function (artist) {
         return artist.id == id;
     })
-    let artistName = document.querySelector("#artist h1");
-    let artistImg = document.querySelector("#artist img");
+    let artistName = document.querySelector(".artistHeader h1");
+    let artistImg = document.querySelector(".artistHeader img");
     let artistAlbums = document.querySelector("#albumsUl");
     let artistSingles = document.querySelector("#singlesUl");
 

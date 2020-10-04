@@ -50,4 +50,18 @@ async function showAlbum() {
             }
         })
     }
+
+    //Replace names with links to artist page.
+    let idArray = [];
+    for(let i=0; i<artists.length; i++){
+        idArray.push(artists[i].id)
+    }
+    let feat = document.querySelectorAll(".feat");
+    let featDivs = Array.from(feat);
+    featDivs.forEach(function(featDiv){
+        for(let i=0; i<artists.length; i++){
+            let replacement = '<a href="artist.html?id=' + idArray[i] + '"title="' + artists[i].name +'">' + artists[i].name + '</a>';
+            featDiv.innerHTML = featDiv.innerHTML.replace(artists[i].name, replacement);
+        }
+    })
 }

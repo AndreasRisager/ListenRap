@@ -1,10 +1,11 @@
 #album{
-	margin: 2em 0;
+	margin-bottom: 2em;
 }
 #album h1{
 	font-size: 2em;
     text-align: center;
     color: #FFF;
+    margin: 0.5em 0;
 }
 .albumSong{
     display: grid;

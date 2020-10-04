@@ -1,13 +1,35 @@
-#artist{
-	margin: 2em 0;
+.artistHeader{
+	display: grid;
 }
-#artist h1{
-	font-size: 2em;
-	text-align: center;
+.artistHeader h1, .artistHeader img, .imgShadow{
+	grid-area: 1/1/1/1;
+}
+.imgShadow{
+	opacity: 0.6;
+	background-color: rgb(39, 39, 39);
+	box-shadow: 0 -100px 40px inset #000;
+}
+.artistHeader h1{
+	order: 2;
+	z-index: 2;
+	text-align: left;
+	font-size: 4.5em;
+	color: #FFF;
+	align-self: flex-end;
+	margin-left: 10px;
+}
+#artist{
+	padding: 1em 2%;
 }
 #artist ul{
 	padding: 1em 2em;
 }
 #albumsUl li{
 	text-decoration: underline;
+}
+
+@media only screen and (max-width: 460px) {
+	.artistHeader h1{
+		font-size: 14vmin;
+	}
 }
