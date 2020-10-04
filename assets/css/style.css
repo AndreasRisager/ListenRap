@@ -133,7 +133,7 @@ main{
 	align-self: center;
 }
 .topAlbumImg span{
-	font-size: 10vw;
+	font-size: 18vmin;
 	opacity: 1;
 	color: #000;
 	order: 2;
