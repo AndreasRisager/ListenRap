@@ -1,3 +1,0 @@
-API-Key: 615b0297208e101fbc822a42b7acfe90
-
-Client-Secret: 773a0b6cf803cb072934e3b668c6eecb
